@@ -1,47 +1,44 @@
-��ϵͳ��һ������ssm�������õ����ϵͳ
+本系统是一个基于ssm的在线旅店管理系统
+
+源码下载地址：http://www.manoncode.cn/details?id=56
 
 
-��Ŀ��������¼���ںš�java��ĿԴ�롿����Ҫ�����й�עһ�¹��ںŲ�����Դ��
+本系统主要功能为：
 
-![���ںŶ�ά��](./���н�ͼ/wechat.png)
+管理员登陆，住客管理（入住，列表），房间管理，会员管理（录入，列表），系统设置（网站信息，修改密码，清除缓存）
+，数据导出（房间信息导出和会员信息导出）
 
+技术：ssm+layui+mysql+tomcat+maven
 
-��ϵͳ��Ҫ����Ϊ��
-
-����Ա��½��ס�͹�������ס���б����������������Ա������¼�룬�б�����ϵͳ���ã���վ��Ϣ���޸����룬������棩
-�����ݵ�����������Ϣ�����ͻ�Ա��Ϣ������
-
-������ssm+layui+mysql+tomcat+maven
-
-ע�⣺idea����ʱ��Ҫ��tomcatӦ������Ϊ\
+注意：idea运行时需要将tomcat应用名改为\
 
 
-CSDN���͵�ַ��[����ssm�������õ����ϵͳ](https://blog.csdn.net/mataodehtml/article/details/115479243)
+CSDN博客地址：[基于ssm的在线旅店管理系统](https://blog.csdn.net/mataodehtml/article/details/115479243)
 
-������Ƶ��ַ��[����ssm�������õ����ϵͳ](https://www.bilibili.com/video/BV1kB4y1P7Jq)
+运行视频地址：[基于ssm的在线旅店管理系统](https://www.bilibili.com/video/BV1kB4y1P7Jq)
 
 
-����Ա��
+管理员：
 
-![��Ŀ�ṹ](./���н�ͼ/��Ŀ�ṹ.png)
+![项目结构](./运行截图/项目结构.png)
 
-![��Ŀ�ṹ2](./���н�ͼ/��Ŀ�ṹ2.png)
+![项目结构2](./运行截图/项目结构2.png)
 
-![��Ա�б�](./���н�ͼ/��Ա�б�.png)
+![会员列表](./运行截图/会员列表.png)
 
-![ס���б�](./���н�ͼ/ס���б�.png)
+![住客列表](./运行截图/住客列表.png)
 
-![�����б�](./���н�ͼ/�����б�.png)
+![房间列表](./运行截图/房间列表.png)
 
-![���ݵ���](./���н�ͼ/���ݵ���.png)
+![数据导出](./运行截图/数据导出.png)
 
-![����ס��](./���н�ͼ/����ס��.png)
+![添加住客](./运行截图/添加住客.png)
 
-![���ӷ���](./���н�ͼ/���ӷ���.png)
+![添加房间](./运行截图/添加房间.png)
 
-![��½ҳ��](./���н�ͼ/��½ҳ��.png)
+![登陆页面](./运行截图/登陆页面.png)
 
-![ϵͳ����](./���н�ͼ/ϵͳ����.png)
+![系统配置](./运行截图/系统配置.png)
 
 
 
